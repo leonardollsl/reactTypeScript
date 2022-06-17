@@ -1,2 +1,4 @@
 # reactTypeScript
-Project - React with TypeScript - Courses Alura
+Project - Course ReactTypeScript- from Alura Courses.
+
+
